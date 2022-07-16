@@ -1,7 +1,366 @@
 {
+  "path" : "emotes",
   "emotes" : [
-
+    {
+      "type" : ".gif",
+      "name" : "ab1nzyblob2"
+    },
+    {
+      "name" : "ablobderpy",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobattentionreverse",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobowo",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobpainrain"
+    },
+    {
+      "name" : "ablobplsnospam",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobnwn"
+    },
+    {
+      "name" : "ablobgrin",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobreach",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobraisehand"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobaww"
+    },
+    {
+      "name" : "ablobeyesup",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobguitar",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobpeek"
+    },
+    {
+      "name" : "ablobattention",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobhype",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobdundundun",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobhungry",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobrage",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobcheer",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobglarezoombutfast"
+    },
+    {
+      "name" : "ablobjoin",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobrollingeyes"
+    },
+    {
+      "name" : "ablobblewobble",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobblastoff"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobcry"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobdancer"
+    },
+    {
+      "name" : "ablobdizzy",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobglitch",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobjam",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "abloblamp"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobenjoysnow"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobenjoyrain"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobhop"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobpanic"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobgrimace"
+    },
+    {
+      "name" : "ablobreachsob",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobglarezoom",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobeyesdown",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobderpyhappy",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobpopcorn",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobcouncil",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobhydraulicpress"
+    },
+    {
+      "name" : "ablobhologram",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobgoodnight"
+    },
+    {
+      "name" : "ablobreachreverse",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobcongarollbounce",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobpats"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobpropeller"
+    },
+    {
+      "name" : "ablobanvil",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobmaracas",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobbounce",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobbass"
+    },
+    {
+      "name" : "ablobrollbounce",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobmelt"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobleave"
+    },
+    {
+      "name" : "ablobsadpats",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobpainpats",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobgift"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobmeltsoblove"
+    },
+    {
+      "name" : "ablobcouple",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobjoy",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobonfire",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobgoodnightreverse",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobnervous"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobcolorshift"
+    },
+    {
+      "name" : "ablobflushed",
+      "type" : ".gif"
+    },
+    {
+      "name" : "ablobmelting",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobmicrophone"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobangel"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobhearteyes"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobnod"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobnogood"
+    },
+    {
+      "name" : "ablobabducted",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobbanhammer"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobkiss"
+    },
+    {
+      "name" : "ablobdrool",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobgiggle"
+    },
+    {
+      "name" : "ablobsad",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobkeyboard"
+    },
+    {
+      "name" : "ablobnodfast",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobbouncefast"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobnom"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobnomcookie"
+    },
+    {
+      "name" : "ablobcaramelldansen",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "abloblurk"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobdrum"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobenjoy"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ablobheadshake"
+    },
+    {
+      "name" : "ablobparty",
+      "type" : ".gif"
+    }
   ],
-  "name" : "Lucy's Nitroless",
-  "path" : "emotes"
+  "name" : "Lucy's Nitroless"
 }
